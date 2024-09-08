@@ -14,4 +14,5 @@ AirInsight is a pollution analysis project designed to help users visualize and 
 6) You may proceed again for any other city or if you wish to exit, solution of days with high O3 and particle level that can be implemented by the user on a day to day basis will be printed out. 
 
 ## Sample input and output
-![Alt text](https://imgur.com/a/PV5MChM)
+![Alt text](https://i.imgur.com/J9AuDHa.png)
+![Alt text](https://i.imgur.com/PXQuHVV.png)
